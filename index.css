@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+#hello, #happy{
+    background-color: powderblue;
+    width: 350px;
+    height: 350px;
+    padding: 50px;
+    padding-top: 100px;
+    text-align: center;
+    margin: 10px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 40px;
+    border: black solid 1px;
+}
+#hello{
+    background-color: rgb(102, 99, 99);
+}
+#hello a{
+    background-color: black;
+    border: white solid 1px;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+#hello a:hover{
+    border: orange solid 1px;
+    color: orange;
+}
+img{
+    margin: 10px;
+}
+hr{
+    border-color: grey;
+}
